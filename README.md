@@ -68,6 +68,10 @@ Turns a free-form family message in Arabic or English into a structured bilingua
 
 ### Also featured
 
+**FamilyOS** — *Bilingual family-support platform concept · 7th place out of 1,830+ projects, Abu Dhabi University 5th Annual College of Engineering Hackathon (AI for the Family), 2026*<br>
+An interactive English/Arabic prototype with four modules: household finance support, elderly health monitoring, a sustainability engine and UAE smart-city services. Team Leader and Lead Developer in a team of three, with Meerah Rashed Al Mazrouei and Shamsa Faris Al Mazrouei. The dashboards run on illustrative sample data, and the submitted prototype has no live AI back end.<br>
+`HTML/CSS/JS` `Bilingual UI` · [Source](https://github.com/MayMourad/FamilyOS-AI) · [Demo](https://maymourad.github.io/FamilyOS-AI/)
+
 **NeuroPace Analytics** — *Python back end for cognitive-readiness analytics*<br>
 A FastAPI service that uses NumPy to turn synthetic athlete telemetry into a Cognitive Readiness Index (z-score normalisation, rolling means, a weighted combination and a logistic mapping to 0–100) and a per-session risk score, served over REST endpoints. Sole developer. The back end currently sits inside the dashboard's HTML file and is not yet connected to it.<br>
 `Python` `FastAPI` `NumPy` · [Source](https://github.com/MayMourad/NeuroPace-Analytics) · [Dashboard](https://maymourad.github.io/NeuroPace-Analytics/)
@@ -80,7 +84,6 @@ Scores an underused laptop, tablet or phone against five second-life roles with 
 <summary>Earlier prototypes and physical engineering</summary>
 <br>
 
-- **FamilyOS:** Team Leader and Lead Developer. 7th place, Abu Dhabi University 5th Annual College of Engineering Hackathon (2026). A bilingual family-support concept prototype; the submitted version has no AI back end. [Source](https://github.com/MayMourad/FamilyOS-AI)
 - **NeuroBridge:** Team Lead and Lead Developer, Abu Dhabi University 4th Annual College of Engineering Hackathon (2025). An accessibility concept with a rule-based assistant; adaptive learning was proposed, not built. [Source](https://github.com/MayMourad/NeuroBridge)
 - **EcoCore AI:** Sole developer, International Computing Olympiad 2025, Certificate of Outstanding Participation (GCC region). A sustainability prototype with simulated environmental data and a rule-based chatbot. [Source](https://github.com/MayMourad/EcoCore-AI)
 - **Robotics and hardware:** MakeX Mubarmij Al Emarat, 5th nationally and qualified for the 2024 international finals in China (did not attend). Team Leader and Lead Engineer, Yas in Schools 4x4 (2024). A piezoelectric energy-harvesting prototype (First Place, Academy of Excellence STEM Track, 2025). Arduino builds, including obstacle-detecting glasses.
@@ -147,8 +150,8 @@ An EEG-based neurofeedback concept, written as a research proposal. No system ha
 **Recognition**
 
 - **Third Place**, Khalifa University Smart Mobile App Contest (SMAC), 2026 · Khutwa
+- **7th Place out of 1,830+ projects**, Abu Dhabi University 5th Annual College of Engineering Hackathon (AI for the Family), 2026 · FamilyOS
 - **Promising Changemaker Award**, Techsplore (Girls Who Code), 2026 · ReEngine AI
-- **7th Place**, Abu Dhabi University 5th Annual College of Engineering Hackathon, 2026 · FamilyOS
 - **Certificate of Outstanding Participation** (GCC region), International Computing Olympiad, 2025 · EcoCore AI
 - **First Place**, Academy of Excellence STEM Track, 2025 · piezoelectric energy-harvesting prototype
 - **5th Place nationally**, MakeX Mubarmij Al Emarat, 2024 · qualified for the international finals in China; did not attend
