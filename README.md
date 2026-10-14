@@ -84,7 +84,7 @@ Scores an underused laptop, tablet or phone against five second-life roles with 
 <summary>Earlier prototypes and physical engineering</summary>
 <br>
 
-- **NeuroBridge:** Team Lead and Lead Developer, Abu Dhabi University 4th Annual College of Engineering Hackathon (2025). An accessibility concept with a rule-based assistant; adaptive learning was proposed, not built. [Source](https://github.com/MayMourad/NeuroBridge)
+- **NeuroBridge:** Team Lead and Lead Developer, Abu Dhabi University 4th Annual College of Engineering Hackathon (2025). An accessibility concept with a rule-based assistant; adaptive learning was proposed, not built. [Source](https://github.com/MayMourad/NeuroBridge) · [Demo](https://maymourad.github.io/NeuroBridge/neurobridge-final-integrated.html)
 - **EcoCore AI:** Sole developer, International Computing Olympiad 2025, Certificate of Outstanding Participation (GCC region). A sustainability prototype with simulated environmental data and a rule-based chatbot. [Source](https://github.com/MayMourad/EcoCore-AI)
 - **Robotics and hardware:** MakeX Mubarmij Al Emarat, 5th nationally and qualified for the 2024 international finals in China (did not attend). Team Leader and Lead Engineer, Yas in Schools 4x4 (2024). A piezoelectric energy-harvesting prototype (First Place, Academy of Excellence STEM Track, 2025). Arduino builds, including obstacle-detecting glasses.
 
